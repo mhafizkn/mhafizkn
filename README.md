@@ -24,7 +24,7 @@ Apart from coding, I also interest in exploring new things - go visit me at [![P
 ## :bar_chart: GitHub Stats
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhafizkn&title_color=a8ff30&text_color=ffffff&icon_color=a8ff30&bg_color=131414&langs_count=5" alt="Hafiz's Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhafizkn&layout=compact&title_color=a8ff30&text_color=ffffff&icon_color=a8ff30&bg_color=131414" alt="Hafiz's Github Stats"/>
 </a>
 
 <a href="#">
