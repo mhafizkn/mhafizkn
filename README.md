@@ -4,9 +4,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia <img src="https://www.brandsoftheworld.com/logo/universiti-teknologi-malaysia?original=1" width="20px" alt="utm"/>. I'm from Malaysia <img src="" width="20px"/>, and currently undergo internship at AidanTechnologies Sdn. Bhd. Do connect me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia <img src="https://www.brandsoftheworld.com/logo/universiti-teknologi-malaysia?original=1" width="20px" alt="utm"/>. I'm from Malaysia <img src="" width="20px"/>, and currently undergo internship at AidanTechnologies Sdn. Bhd. Do connect me on [![LinkedIn][2.1]][2] or on [![Pinterest][3.1]][3].
 
-## &#x270d; Blog & Writing
+## :sparkles: Blog & Writing
 
 Apart from coding, I also interest in exploring new things - go visit me at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 
@@ -25,9 +25,9 @@ Apart from coding, I also interest in exploring new things - go visit me at [mar
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## :sparkles:; GitHub Stats
+## :bar_chart: GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<!-- <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
@@ -41,33 +41,27 @@ Apart from coding, I also interest in exploring new things - go visit me at [mar
 
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>     -->
 
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: https://cdn4.iconfinder.com/data/icons/liu-square-blac/60/github-square-social-media-512.png (github icon)
+[2.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png (linkedin icon)
+[3.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Pinterest2_svg-512.png (pinterest icon)
 
-<!-- icons without padding -->
+<!-- 1: Github; 2: Linkedin; 3: Pinterest -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://github.com/mhafizkn
+[2]: https://www.linkedin.com/in/mhafizkn/
+[3]: https://www.pinterest.com/mhafizkn/_saved/ 
 
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- Emojis: https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
