@@ -4,11 +4,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia <img src="https://www.brandsoftheworld.com/logo/universiti-teknologi-malaysia?original=1" width="20px" alt="utm"/>. I'm from Malaysia <img src="" width="20px"/>, and currently undergo internship at AidanTechnologies Sdn. Bhd. Do connect me on [![LinkedIn][2.1]][2] or on [![Pinterest][3.1]][3].
+My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia [![UTM][5.1][4]]. I'm from Malaysia [![Malaysia][5.1]], and currently undergo internship at AidanTechnologies Sdn. Bhd. [![AidanTech][6.1][5]]. Do connect me on [![LinkedIn][2.1]][2].
 
-## :sparkles: Blog & Writing
+## :sparkles: Creativity beyond minds
 
-Apart from coding, I also interest in exploring new things - go visit me at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also interest in exploring new things - go visit me at [![Pinterest][3.1]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -47,15 +47,20 @@ Apart from coding, I also interest in exploring new things - go visit me at [mar
 
 <!-- icons with padding -->
 
-[1.1]: https://cdn4.iconfinder.com/data/icons/liu-square-blac/60/github-square-social-media-48.png (github icon)
-[2.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-20.png (linkedin icon)
+[1.1]: https://cdn4.iconfinder.com/data/icons/liu-square-blac/60/github-square-social-media-16.png (github icon)
+[2.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-16.png (linkedin icon)
 [3.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Pinterest2_svg-16.png (pinterest icon)
+[4.1]: https://c.tenor.com/Px98TTDW-ioAAAAi/utm-logo-utm.gif (utm icon)
+[5.1]: https://c.tenor.com/DCNJbldLwykAAAAi/flag-country.gif (malaysia icon)
+[6.1]: https://aidantech.com/wp-content/uploads/2018/12/logo.png (aidantech icon)
 
 <!-- 1: Github; 2: Linkedin; 3: Pinterest -->
 
 [1]: https://github.com/mhafizkn
 [2]: https://www.linkedin.com/in/mhafizkn/
 [3]: https://www.pinterest.com/mhafizkn/_saved/ 
+[4]: https://www.utm.my/
+[5]: https://aidantech.com/
 
 
 <!-- Resources -->
