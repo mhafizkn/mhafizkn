@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/mhafizkn/mhafizkn/main/readme_header.png "Header")](#)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="hi"> <img src="https://giphy.com/embed/S3ntCpiiXQqjpR1i0T" width="30px" alt="myvi">
 
 My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia <img src="https://c.tenor.com/Px98TTDW-ioAAAAi/utm-logo-utm.gif" width="20px" alt="UTM">. I'm from Malaysia <img src="https://c.tenor.com/DCNJbldLwykAAAAi/flag-country.gif" width="20px" alt="Malaysia">, and currently undergo internship at AidanTechnologies Sdn. Bhd. <img src="https://aidantech.com/wp-content/uploads/2018/12/logo.png" width="25px" alt="AidanTech">. Do connect me on [![LinkedIn][2.1]][2].
 
@@ -61,8 +61,9 @@ Apart from coding, I also interest in exploring new things - go visit me at [![P
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
+<!-- Social Icons: https://www.iconfinder.com/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- Awesome GitHub Profile README: https://github.com/MartinHeinz/MartinHeinz -->
