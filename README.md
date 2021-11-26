@@ -48,8 +48,8 @@ Apart from coding, I also interest in exploring new things - go visit me at [mar
 <!-- icons with padding -->
 
 [1.1]: https://cdn4.iconfinder.com/data/icons/liu-square-blac/60/github-square-social-media-48.png (github icon)
-[2.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-48.png (linkedin icon)
-[3.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Pinterest2_svg-48.png (pinterest icon)
+[2.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-20.png (linkedin icon)
+[3.1]: https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Pinterest2_svg-16.png (pinterest icon)
 
 <!-- 1: Github; 2: Linkedin; 3: Pinterest -->
 
