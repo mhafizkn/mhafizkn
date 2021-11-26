@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia [![UTM][4.1][4]]. I'm from Malaysia [Malaysia][5.1], and currently undergo internship at AidanTechnologies Sdn. Bhd. [![AidanTech][6.1][5]]. Do connect me on [![LinkedIn][2.1]][2].
+My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia [![UTM][4.1][4]]. I'm from Malaysia <img src="[5.1]" width="10px" alt="Malaysia"/>, and currently undergo internship at AidanTechnologies Sdn. Bhd. [![AidanTech][6.1][5]]. Do connect me on [![LinkedIn][2.1]][2].
 
 ## :sparkles: Creativity beyond minds
 
