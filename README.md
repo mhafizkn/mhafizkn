@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](#) -->
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](#)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -19,7 +19,7 @@ Apart from coding, I also interest in exploring new things - go visit me at [![P
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=a8ff30)
 ![](https://img.shields.io/badge/Code-Laravel-brightgreen?style=flat&logo=laravel&logoColor=white&color=a8ff30)
 ![](https://img.shields.io/badge/Bash-Terminal-brightgreen?style=flat&logo=windowsterminal&logoColor=white&color=a8ff30)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=a8ff30)
 
 ## :bar_chart: GitHub Stats
 
