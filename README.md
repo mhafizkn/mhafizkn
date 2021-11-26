@@ -4,25 +4,21 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia <img src="https://c.tenor.com/Px98TTDW-ioAAAAi/utm-logo-utm.gif" width="20px" alt="UTM">. I'm from Malaysia <img src="https://c.tenor.com/DCNJbldLwykAAAAi/flag-country.gif" width="20px" alt="Malaysia">, and currently undergo internship at AidanTechnologies Sdn. Bhd. <img src="https://aidantech.com/wp-content/uploads/2018/12/logo.png" width="15px" alt="AidanTech">. Do connect me on [![LinkedIn][2.1]][2].
+My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia <img src="https://c.tenor.com/Px98TTDW-ioAAAAi/utm-logo-utm.gif" width="20px" alt="UTM">. I'm from Malaysia <img src="https://c.tenor.com/DCNJbldLwykAAAAi/flag-country.gif" width="20px" alt="Malaysia">, and currently undergo internship at AidanTechnologies Sdn. Bhd. <img src="https://aidantech.com/wp-content/uploads/2018/12/logo.png" width="25px" alt="AidanTech">. Do connect me on [![LinkedIn][2.1]][2].
 
 ## :sparkles: Creativity beyond minds
 
 Apart from coding, I also interest in exploring new things - go visit me at [![Pinterest][3.1]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-brightgreen?style=flat&logo=html5&logoColor=white&color=a8ff30)
+![](https://img.shields.io/badge/Code-CSS-brightgreen?style=flat&logo=css3&logoColor=white&color=a8ff30)
+![](https://img.shields.io/badge/Code-SQL-brightgreen?style=flat&logo=mysql&logoColor=white&color=a8ff30)
+![](https://img.shields.io/badge/Code-PHP-brightgreen?style=flat&logo=php&logoColor=white&color=a8ff30)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=a8ff30)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=a8ff30)
+![](https://img.shields.io/badge/Code-Laravel-brightgreen?style=flat&logo=laravel&logoColor=white&color=a8ff30)
+![](https://img.shields.io/badge/Bash-Terminal-brightgreen?style=flat&logo=windowsterminal&logoColor=white&color=a8ff30)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## :bar_chart: GitHub Stats
