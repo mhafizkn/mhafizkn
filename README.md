@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/mhafizkn/mhafizkn/main/readme_header.png "Header")](#)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="hi"> <img src="https://github.com/mhafizkn/mhafizkn/blob/main/porsche.gif?raw=true" width="30px" alt="myvi">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="hi"> <img src="https://github.com/mhafizkn/mhafizkn/blob/main/porsche.gif?raw=true" width="140px" alt="myvi">
 
 My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia <img src="https://c.tenor.com/Px98TTDW-ioAAAAi/utm-logo-utm.gif" width="20px" alt="UTM">. I'm from Malaysia <img src="https://c.tenor.com/DCNJbldLwykAAAAi/flag-country.gif" width="20px" alt="Malaysia">, and currently undergo internship at AidanTechnologies Sdn. Bhd. <img src="https://aidantech.com/wp-content/uploads/2018/12/logo.png" width="25px" alt="AidanTech">. Do connect me on [![LinkedIn][2.1]][2].
 
@@ -22,11 +22,11 @@ Apart from coding, I also interest in exploring new things - go visit me at [![P
 ## :bar_chart: GitHub Stats
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhafizkn&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhafizkn&layout=compact&langs_count=10&title_color=a8ff30&text_color=ffffff&icon_color=a8ff30&bg_color=131414" alt="Hafiz's Github Stats"/>
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhafizkn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhafizkn&show_icons=true&line_height=27&count_private=true&title_color=a8ff30&text_color=ffffff&icon_color=a8ff30&bg_color=131414" alt="Hafiz's GitHub Stats" />
 </a>
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
