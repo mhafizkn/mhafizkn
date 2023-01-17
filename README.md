@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="hi"> <img src="https://github.com/mhafizkn/mhafizkn/blob/main/porsche.gif?raw=true" width="140px" alt="myvi">
 
-My name is Hafiz and I'm a software engineer student of Universiti Teknologi Malaysia <img src="https://c.tenor.com/Px98TTDW-ioAAAAi/utm-logo-utm.gif" width="20px" alt="UTM">. I'm from Malaysia <img src="https://c.tenor.com/DCNJbldLwykAAAAi/flag-country.gif" width="20px" alt="Malaysia">, and currently undergo internship at AidanTechnologies Sdn. Bhd. <img src="https://aidantech.com/wp-content/uploads/2018/12/logo.png" width="25px" alt="AidanTech">. Do connect me on [![LinkedIn][2.1]][2].
+My name is Hafiz, freshs graduated student software engineer student of Universiti Teknologi Malaysia <img src="https://c.tenor.com/Px98TTDW-ioAAAAi/utm-logo-utm.gif" width="20px" alt="UTM">. Currently seeking an oppurtunity to leverage my skill and experience that can benefit an organization. <img src="https://aidantech.com/wp-content/uploads/2018/12/logo.png" width="25px" alt="AidanTech">. Do connect me on [![LinkedIn][2.1]][2].
 
 ## :sparkles: Creativity beyond minds
 
